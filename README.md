@@ -2,7 +2,7 @@
 This repository contains supplementary codes and SMT models for ciphers: 
 - SLIM
 - LCB
-- LCB-IoT
+- LBC-IoT
 - SCENERY
 
 ### Summary
