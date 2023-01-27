@@ -7,4 +7,4 @@ Note that only keys that affect active nibbles are being guessed, which makes it
 
 In 4 out of 5 of the example runs, the correct round key bits was found to have the highest number of hits. 
 
-In the **13R_verification** files, the actual process of the encryption and trial decryption is shown. 
+In the **13R_verification** files, the linear filtering process is shown.
