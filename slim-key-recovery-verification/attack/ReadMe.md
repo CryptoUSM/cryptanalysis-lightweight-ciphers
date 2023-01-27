@@ -1,0 +1,4 @@
+ - slim.cpp: SLIM encryption and decryption
+ - slim-key.cpp: SLIM key scheduling and master keys randomization algorithm
+ - slim-ddt.cpp: generate SLIM Differential Distribution Table 
+ - attack.cpp: SLIM key recovery attack
