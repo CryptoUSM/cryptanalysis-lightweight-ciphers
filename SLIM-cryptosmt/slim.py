@@ -27,7 +27,7 @@ class Slim(AbstractCipher):
         the given parameters.
         """
 
-        wordsize = parameters["wordsize"]
+        wordsize = 32
         rounds = parameters["rounds"]
         weight = parameters["sweight"]
 
